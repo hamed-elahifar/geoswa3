@@ -7,3 +7,6 @@ run following command to specify the environment
 after that run one of the following commands
 > npm run deploy:ganache
 > npm run deploy:moonbeam
+
+you may run the following command to have instance of ganache running in your local environment
+> npm run ganache
